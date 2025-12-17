@@ -10,7 +10,7 @@ import { updatePageSEO } from '../utils/seo';
 const HomePage: React.FC = () => {
   useEffect(() => {
     updatePageSEO({
-      title: 'PrimXP - Premium Event Management & Brand Experiences',
+      title: 'PrimeEvents - Premium Event Management & Brand Experiences',
       description: 'Leading event management company specializing in corporate events, product launches, retail branding, and team meetings. Creating unforgettable experiences with professional execution.',
       keywords: 'event management, corporate events, product launch, retail branding, team meetings, event planning, brand experiences',
       url: 'https://www.primxp.com'

@@ -12,7 +12,7 @@ const ContactPage: React.FC = () => {
     updatePageSEO({
       title: 'Contact Us - PrimeEvents | Get In Touch for Your Next Event',
       description: 'Contact PrimeEvents for your event management needs. Located in Mumbai, we serve clients across India with corporate events, product launches, and brand experiences.',
-      keywords: 'contact primxp, event management contact, mumbai events, corporate event planning contact',
+      keywords: 'contact PrimeEvents, event management contact, mumbai events, corporate event planning contact',
       url: 'https://www.primxp.com/contact'
     });
   }, []);

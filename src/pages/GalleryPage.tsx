@@ -80,7 +80,7 @@ const GalleryPage: React.FC = () => {
 
   useEffect(() => {
     updatePageSEO({
-      title: 'Gallery - PrimXP | Event Portfolio & Past Projects',
+      title: 'Gallery - PrimeEvents | Event Portfolio & Past Projects',
       description: 'Explore our portfolio of successful events including corporate conferences, product launches, team meetings, and retail branding projects. See our work in action.',
       keywords: 'event portfolio, gallery, corporate events, product launches, event photography, project showcase',
       url: 'https://www.primxp.com/gallery'

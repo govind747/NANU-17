@@ -20,9 +20,9 @@ const AboutPage: React.FC = () => {
 
   useEffect(() => {
     updatePageSEO({
-      title: 'About Us - PrimXP | Our Story, Team & Capabilities',
-      description: 'Learn about PrimXP\'s journey, meet our expert team, and discover our in-house capabilities including stage design, lighting, sound, printing, and corporate gifting.',
-      keywords: 'about primxp, event management team, company story, in-house services, stage design, lighting, sound systems',
+      title: 'About Us - PrimeEvents | Our Story, Team & Capabilities',
+      description: 'Learn about PrimeEvents\'s journey, meet our expert team, and discover our in-house capabilities including stage design, lighting, sound, printing, and corporate gifting.',
+      keywords: 'about PrimeEvents, event management team, company story, in-house services, stage design, lighting, sound systems',
       url: 'https://www.primxp.com/about'
     });
   }, []);
@@ -43,7 +43,7 @@ const AboutPage: React.FC = () => {
                 Our Story
               </h1>
               <p className="text-lg text-gray-600 mb-6 leading-relaxed">
-                Founded in 2015, PrimXP began with a simple vision: to create unforgettable experiences 
+                Founded in 2025, PrimeEvents began with a simple vision: to create unforgettable experiences 
                 that leave lasting impressions. What started as a small team of passionate event professionals 
                 has grown into a leading event management company trusted by brands across the industry.
               </p>

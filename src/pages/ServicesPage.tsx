@@ -20,7 +20,7 @@ const ServicesPage: React.FC = () => {
 
   useEffect(() => {
     updatePageSEO({
-      title: 'Our Services - PrimXP | Corporate Events, Product Launches & More',
+      title: 'Our Services - PrimeEvents | Corporate Events, Product Launches & More',
       description: 'Comprehensive event management services including corporate events, team meetings, product launches, and retail branding. Professional execution for memorable experiences.',
       keywords: 'corporate events, team meetings, product launch, retail branding, event management services, workshop facilitation',
       url: 'https://www.primxp.com/services'

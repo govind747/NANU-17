@@ -53,7 +53,7 @@ function updateMetaTag(name: string, content: string, attribute: string = 'name'
 }
 
 export const defaultSEO: SEOData = {
-  title: 'PrimXP - Premium Event Management & Brand Experiences',
+  title: 'PrimeEvents - Premium Event Management & Brand Experiences',
   description: 'Leading event management company specializing in corporate events, product launches, retail branding, and team meetings. Creating unforgettable experiences with professional execution.',
   keywords: 'event management, corporate events, product launch, retail branding, team meetings, event planning, brand experiences',
   image: 'https://images.pexels.com/photos/1190298/pexels-photo-1190298.jpeg',
