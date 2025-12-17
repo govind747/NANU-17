@@ -83,18 +83,19 @@ const Footer: React.FC = () => {
               <div className="flex items-start space-x-3">
                 <MapPin size={18} className="text-[#e1b382] mt-1 flex-shrink-0" />
                 <span className="text-gray-300">
-                  123 Business Plaza<br />
-                  Mumbai, Maharashtra 400001<br />
+                  F-56, G.Floor, K.No-890,<br />
+                  Village Fatehpur Beri,<br />
+                  New Delhi 110074<br />
                   India
                 </span>
               </div>
               <div className="flex items-center space-x-3">
                 <Phone size={18} className="text-[#e1b382]" />
-                <span className="text-gray-300">+91 98765 43210</span>
+                <span className="text-gray-300">+91 95993 18090</span>
               </div>
               <div className="flex items-center space-x-3">
                 <Mail size={18} className="text-[#e1b382]" />
-                <span className="text-gray-300">info@primxp.com</span>
+                <span className="text-gray-300">Pawan@primxp.com</span>
               </div>
             </div>
           </div>
